@@ -63,12 +63,6 @@ Ensure you have the following installed on your machine:
    python init_db.py
    ```
 
-7. Access the API:
-   - Swagger UI: [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs)
-   - Redoc: [http://127.0.0.1:8000/redoc](http://127.0.0.1:8000/redoc)
-
----
-
 ## 🛠️ Future Enhancements
 
 1. **Authentication Features**:  
